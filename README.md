@@ -1,3 +1,7 @@
+This is a simple TODO Web Application created using react.js  
+It creates a list of todo's of your day. 
+Functions like adding and deleted a todo are performed
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
